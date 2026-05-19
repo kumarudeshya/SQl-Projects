@@ -80,7 +80,9 @@ Customer segmentation by spending behavior
 Repeat customers ordering multiple times in a month
 Average delivery time per delivery partner
 
-# Repository Structure
+## Repository Structure
+
+```bash
 SQL-Data-Analytics-Portfolio/
 │
 ├── Titanic-Survival-Analysis/
@@ -102,6 +104,7 @@ SQL-Data-Analytics-Portfolio/
 │   └── dashboards/
 │
 └── README.md
+```
 # Skills Demonstrated
 SQL Query Writing
 Data Cleaning & Transformation
